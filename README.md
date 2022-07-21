@@ -10,7 +10,8 @@ We need to build a classification methodology to determine whether a customer is
 The client will send data in multiple sets of files in batches at a given location, from where we need to fetch them, validate them and then use them to build a ML Model so as to solve the classification problem. The architecture to be followed for the total ML flow is as follows:
 
 #### Architecture:
-https://snipboard.io/EflVDm.jpg
+![Architecture_Flow](https://user-images.githubusercontent.com/80168505/180277893-1ed3b7da-7f97-4bf1-a294-f86892783585.png)
+
 
 ### Data Description:
 
