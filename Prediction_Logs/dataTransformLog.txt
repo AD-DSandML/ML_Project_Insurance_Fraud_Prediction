@@ -6,3 +6,7 @@
 2022-07-11/21:59:14		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
 2022-07-11/22:06:42		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
 2022-07-19/22:30:43		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-20/00:36:28		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-20/21:56:28		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-20/21:57:21		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
+2022-07-21/22:58:48		 fraudDetection_021119920_010222.csv: File Transformed successfully!!
